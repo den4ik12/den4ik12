@@ -1,6 +1,6 @@
 [![Header](https://github.com/den4ik12/den4ik12/blob/master/assets/Header.gif?raw=true)](https://vk.com/id177283702)
 
-##I'm student of Computer science and Computer engineering and Software Engeneer
+## I'm student of Computer science and Computer engineering and Software Engeneer
 
 
 ## Languages and Tools
