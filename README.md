@@ -7,7 +7,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=71c4f6)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=blue)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=appveyor&logoColor=ffe56c)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffe56c)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=5d8dbd)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%2b%2b&logoColor=a63abf)
 ![.NET](https://img.shields.io/badge/-FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=white)
